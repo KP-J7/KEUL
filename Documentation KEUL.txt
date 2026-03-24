@@ -31,5 +31,8 @@ ctg(x) - returns cotangenсe of x degree(in radians)
 sin2a(x) - returns the sine of double 'x' degree(in radians)
 nok(a,b) - returns 'НОК' of 'a' and 'b'
 nod(a,b) - returns 'НОД'of  'a' and 'b'
+bitesinbits(n); bitsinbites(n); kbinbites(n); def bitesinkb(n); mbinkb(n); kbinmb(n); gbinmb(n); mbingb(n); tbingb(n);pbingb(n);gbinpb(n); bitsinkb(n) - converts 'n' to the differnt units of information measurement
+imp(a,b) - implication (logic operation)
+equ(a,b) - equivalent (logic operation)
 ramcpu() - returns the info about CPU and RAM usage
 print_version() - print the info about your operating system
