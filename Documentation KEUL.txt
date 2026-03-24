@@ -1,0 +1,35 @@
+                   KEUL Python library  v1.4
+Functions:
+p(n) -  print the 'n' text
+pr(n) -  print the 'n' text
+typing(n) -  print the 'n' text
+tp(n) -  print the 'n' text
+typ(n) - print the 'n' text
+m(a,b)- returns a*b
+d(a,b)- returns a/b
+stick(s,a) - adds element 's' to the list 'a'
+st(a,b) - returns a**b
+circlesqr(r) - returns square of circle with radius 'r'
+circlelnth(r) - returns length of the circle with radius 'r'
+sqrsqr(a) - returns square of a squre with side of length 'a'
+sqrprgtrg(a,b) - returns a square of the triangle, which has one angle of 90 degrees
+systsch(num,i) - return the number 'num in 'i' system of counting
+step(s)- cleans the 's' list
+md(n) - returns the module of  'n' number
+ln(n) - return the natural log of  'n'
+lg(n) - returns the decimal log of  'n'
+binn(n) - convert to binary system
+hexn(n) - returns the number in hexadecimal system (without '0h')
+octn(n) -  returns the number in octal system (without '0o')
+symb(n) - returns the symbol with 'n' code
+codsymb(n) - returns the code of  'n' symbol
+fact(n) - returns the factorial of the number n
+root(n,k) - returns the 'k' exant root of  'n'  
+roots(n,k,m) - returns n^(m/k)
+tg(x) - returns tangence of x degree(in radians)
+ctg(x) - returns cotangenсe of x degree(in radians)
+sin2a(x) - returns the sine of double 'x' degree(in radians)
+nok(a,b) - returns 'НОК' of 'a' and 'b'
+nod(a,b) - returns 'НОД'of  'a' and 'b'
+ramcpu() - returns the info about CPU and RAM usage
+print_version() - print the info about your operating system
