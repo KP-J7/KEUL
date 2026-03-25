@@ -1,4 +1,4 @@
-                   KEUL Python library  v1.5
+                   KEUL Python library  v1.5.2
 Functions:
 p(n) -  print the 'n' text
 pr(n) -  print the 'n' text
@@ -34,5 +34,7 @@ nod(a,b) - returns 'НОД'of  'a' and 'b'
 bitesinbits(n); bitsinbites(n); kbinbites(n); def bitesinkb(n); mbinkb(n); kbinmb(n); gbinmb(n); mbingb(n); tbingb(n);pbingb(n);gbinpb(n); bitsinkb(n) - converts 'n' to the differnt units of information measurement
 imp(a,b) - implication (logic operation)
 equ(a,b) - equivalent (logic operation)
+cl() - creates an empty list
+l(s) - returns the len of 's' list
 ramcpu() - returns the info about CPU and RAM usage
 print_version() - print the info about your operating system
