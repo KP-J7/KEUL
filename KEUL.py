@@ -1,4 +1,4 @@
-'''KE Universal Library - KEUL Version 1.5'''
+'''KE Universal Library - KEUL Version 1.5.2'''
 import platform
 import psutil
 global s
@@ -101,6 +101,10 @@ def imp(a,b):
    return a<=b
 def equ(a,b):
    return a==b
+def cl():
+   return list()
+def l(s):
+   return len(a)
 def osversion():   
    try:     
       version = {
