@@ -1,4 +1,4 @@
-'''KE Universal Library - KEUL Version 1.5.2'''
+'''KE Universal Library - KEUL Version 1.5.3'''
 import platform
 import psutil
 global s
@@ -120,7 +120,7 @@ def osversion():
       return version
    except Exception as e:
       return {'error': str(e)}
-def print_version():   
+def winver():   
    version_info = osversion()    
    if 'error' in version_info:
       print(f"Error while getting OS informat: {version_info['ошибка']}")
@@ -137,7 +137,7 @@ def print_version():
       if platform.system()=='Windows':
          print(f"Edition:{platform.win32_edition()}")    
 if __name__ == '__main__':
-   print_version()
+   winver()
 def ramcpu():
    print("CPU usage (%):", psutil.cpu_percent(interval=1))   
    ram = psutil.virtual_memory()

@@ -37,4 +37,4 @@ equ(a,b) - equivalent (logic operation)
 cl() - creates an empty list
 l(s) - returns the len of 's' list
 ramcpu() - returns the info about CPU and RAM usage
-print_version() - print the info about your operating system
+winver() - print the info about your operating system
