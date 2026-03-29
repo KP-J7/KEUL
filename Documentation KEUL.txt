@@ -1,4 +1,4 @@
-                   KEUL Python library  v1.5.2
+                   KEUL Python library  v1.5.4
 Functions:
 p(n) -  print the 'n' text
 pr(n) -  print the 'n' text
@@ -36,5 +36,7 @@ imp(a,b) - implication (logic operation)
 equ(a,b) - equivalent (logic operation)
 cl() - creates an empty list
 l(s) - returns the len of 's' list
+srt(s) - sorts 's' list
+revsrt(s) - sorts 's' list (reverse=True)
 ramcpu() - returns the info about CPU and RAM usage
 winver() - print the info about your operating system
