@@ -1,4 +1,4 @@
-'''KE Universal Library - KEUL Version 1.5.4'''
+'''KE Universal Library - KEUL Version 1.6'''
 import platform
 import psutil
 global s
@@ -109,6 +109,8 @@ def srt(n):
    return sorted(n)
 def revsrt(n):
    return sorted(n,reverse=True)
+def bck(n):
+   return n.pop()
 def osversion():   
    try:     
       version = {
