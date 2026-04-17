@@ -111,6 +111,16 @@ def revsrt(n):
    return sorted(n,reverse=True)
 def bck(n):
    return n.pop()
+def frc(n):
+   return float(n)
+def int(n):
+   return i(n)
+def squaresurfsphere(r):
+   return 4*pi*r**2
+def squaresurfcube(a):
+   return 6*(a**2)
+def spherevol(r):
+   return (4/3)*pi*(r**3)
 def osversion():   
    try:     
       version = {

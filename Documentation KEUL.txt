@@ -1,4 +1,4 @@
-                   KEUL Python library  v1.5.4
+                   KEUL Python library  v1.6.1(Release date:17/4/2026)
 Functions:
 p(n) -  print the 'n' text
 pr(n) -  print the 'n' text
@@ -38,5 +38,11 @@ cl() - creates an empty list
 l(s) - returns the len of 's' list
 srt(s) - sorts 's' list
 revsrt(s) - sorts 's' list (reverse=True)
+bck(s) - deletes the last element in list 's'
+frc(n) - returns the float number  'n'
+i(n) - returns the integer number 'n'
+squaresurfsphere(r) - returns the square of surface of sphere with radius 'r'
+squaresurfcube(a) - returns the square of surface of cubee with side 'a'
+spherevol(r) - returns the volume of the sphere with radius 'r'
 ramcpu() - returns the info about CPU and RAM usage
 winver() - print the info about your operating system
