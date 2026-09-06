@@ -1,1 +1,1 @@
-KEUL is universal developing python library with useful functions.
+KEUL is universal developing Python library with useful functions.
