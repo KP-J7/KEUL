@@ -1,8 +1,25 @@
-'''KE Universal Library - KEUL Version 1.6'''
+'''KE Universal Library - KEUL Version 2.0'''
 import platform
-import psutil
 global s
 from math import*
+def pp(i):
+   return i+1
+def mm(i):
+   return i-1
+def revd(a,b):
+   return b/a
+def fl(a):
+   return float(a)
+def unit(a):
+   return int(a)
+def line(a):
+   return str(a)
+def sym(a):
+   return char(a)
+def s(a):
+   return str(a)
+def f(a):
+   return float(a)
 def p(n):
    print(n)
 def typing(n):
@@ -113,8 +130,8 @@ def bck(n):
    return n.pop()
 def frc(n):
    return float(n)
-def int(n):
-   return i(n)
+def i(n):
+   return int(n)
 def squaresurfsphere(r):
    return 4*pi*r**2
 def squaresurfcube(a):
@@ -143,7 +160,7 @@ def winver():
    else:
       print("OS info:")
       print(f"System: {version_info['system']}") 
-      print(f"Reliase: {version_info['release']}") 
+      print(f"Release: {version_info['release']}") 
       print(f"Version: {version_info['version']}")
       print(f"Platform: {version_info['platform']}")              
       print(f"Architecture: {version_info['arch']}")      
@@ -154,10 +171,3 @@ def winver():
          print(f"Edition:{platform.win32_edition()}")    
 if __name__ == '__main__':
    winver()
-def ramcpu():
-   print("CPU usage (%):", psutil.cpu_percent(interval=1))   
-   ram = psutil.virtual_memory()
-   print("RAM usage (%):", ram.percent)
-   print("RAM used (GB):", round(ram.used / 1e9, 2))  
-if __name__ == '__main__':
-   ramcpu()

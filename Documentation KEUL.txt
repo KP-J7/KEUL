@@ -1,5 +1,14 @@
-                   KEUL Python library  v1.6.1(Release date:17/4/2026)
+                   KEUL Python library  v2.0(Release date:14/9/2026)
 Functions:
+pp(a) - returns a+1
+mm(a) - returns a-1
+revd(a,b) - returns b/a
+fl(a) - float type
+unit(a)- int type
+line(a) - str type
+sym(a) - char type
+s(a) - str type
+f(a) - float type
 p(n) -  print the 'n' text
 pr(n) -  print the 'n' text
 typing(n) -  print the 'n' text
