@@ -1,4 +1,6 @@
                    KEUL Python library  v2.1(Release date:22/9/2026)
+Extra libraries:
+xlib- it privides password generate function
 Functions:
 pp(a) - returns a+1
 mm(a) - returns a-1
