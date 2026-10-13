@@ -1,7 +1,10 @@
-                   KEUL Python library  v2.1(Release date:22/9/2026)
-Extra libraries:
-xlib- it privides password generate function
+                   KEUL Python library  v2.2(Release date:13/11/2026)
 Functions:
+new(b) - creates empty array of 'b' length
+cout(n) - print the 'n' text
+printf(n) - print the 'n' text
+cmp(n) - returns n in complex format
+pHW() - prints "Hello,World!"
 pp(a) - returns a+1
 mm(a) - returns a-1
 revd(a,b) - returns b/a
