@@ -1,8 +1,18 @@
-'''KE Universal Library - KEUL Version 2.1'''
+'''KE Universal Library - KEUL Version 2.2'''
 import xlib
 import platform
-global s
+global s 
 from math import*
+def new(b):
+   return []*b
+def cout(n):
+   print(n)
+def printf(n):
+   print(n)
+def cmp(n):
+   return complex(n)
+def pHW():
+   print("Hello,World!")
 def pp(i):
    return i+1
 def mm(i):
