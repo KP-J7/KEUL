@@ -1,8 +1,18 @@
-'''KE Universal Library - KEUL Version 2.2'''
+'''KE Universal Library - KEUL Version 2.3'''
 import xlib
 import platform
 global s 
 from math import*
+def add(a,b):
+   return a+b
+def dlt(s,a):
+   a.pop(s)
+def throw(s,a):
+   a.pop(s)
+def println(n):
+   print(n, end="\n")
+def error():
+   print("Error")
 def new(b):
    return []*b
 def cout(n):
@@ -181,4 +191,4 @@ def winver():
       if platform.system()=='Windows':
          print(f"Edition:{platform.win32_edition()}")    
 if __name__ == '__main__':
-   winver()
+    winver()

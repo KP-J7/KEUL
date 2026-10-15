@@ -1,5 +1,10 @@
-                   KEUL Python library  v2.2(Release date:13/11/2026)
+                   KEUL Python library  v2.3(Release date:15/11/2026)
 Functions:
+add(a,b) - returns the summ of a and b
+dlt(s,a) - delete "s" element in "a" array
+throw(s,a) - delete "s" element in "a" array
+println(n) - prints "n" and goes to the next line
+error() - prints "error" to the console
 new(b) - creates empty array of 'b' length
 cout(n) - print the 'n' text
 printf(n) - print the 'n' text
