@@ -1,0 +1,4 @@
+KEUL has this releases schedule:
+1) a.0.0 - once in 6 month - big updates,
+2) 2.b.0 - float releases might once in some weeks,
+3)2.0.c - important releases - as needed.
