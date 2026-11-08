@@ -1,8 +1,13 @@
-'''KE Universal Library - KEUL Version 2.3'''
+'''KEUL Version 2.3.1'''
 import xlib
 import platform
 global s 
 from math import*
+def fib(n):
+   if n<=1:
+      return n
+   else:
+      return fib(n-1)+fib(n-2)
 def add(a,b):
    return a+b
 def dlt(s,a):

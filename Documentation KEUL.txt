@@ -1,5 +1,6 @@
-                   KEUL Python library  v2.3(Release date:15/11/2026)
+                   KEUL Python library  v2.3.1(Release date:8/11/2026)
 Functions:
+fib(n) - returns the "n" Fibonacci number
 add(a,b) - returns the summ of a and b
 dlt(s,a) - delete "s" element in "a" array
 throw(s,a) - delete "s" element in "a" array
