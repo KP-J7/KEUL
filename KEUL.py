@@ -1,10 +1,12 @@
-'''KEUL Version 2.4-alpha'''
+'''KEUL Version 2.4'''
 import xlib
 import platform
 global s 
 from math import*
-def Euclid_alhor():
-   pass
+def Euclid_alhor(a,b):
+   while b != 0:
+      a, b = b, a % b
+   return abs(a)
 def prel():
    print()
 def fib(n):
