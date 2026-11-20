@@ -5,5 +5,5 @@ In pre-releases there are only names of the functions in .py file, which will be
 **KEUL has this releases schedule:**<br>
 *1) a.0.0 - once in 6 month - big updates;*<br>
 *2) 2.b.0 - float releases might once in some days or weeks;*<br>
-*3). 2.0.c - really important releases - as needed.*
+*3). 2.0.c - really important releases - as needed.*<br>
 With KEUL v2.5 release, "xlib" library was finally removed from the source code.
