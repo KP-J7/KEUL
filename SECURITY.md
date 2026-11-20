@@ -1,9 +1,8 @@
-# Security Policy
 
 ## Supported Versions
 
 Versions of the project are
-currently being supported with security updates.
+currently being supported with updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
