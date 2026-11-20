@@ -1,5 +1,10 @@
-                   KEUL Python library  v2.4(Release date:15/11/2026)
+                   KEUL Python library  v2.5(Release date:20/11/2026)
 Functions:
+subtr(a,b) - returns difference between 'a' and 'b'
+dvn(a,b) - returns the quotient of 'a' and 'b'
+multp(a,b) - returns the product of 'a' and 'b'
+crt(a) - returns the cubic root of 'a' number
+trt(a) - returns the fourth‑degree root of 'a' number
 Euclid_alhor(a,b)- calculates the gcd of 'a' and 'b' using Euclid alhoritm
 prel() - prints empty line
 fib(n) - returns the "n" Fibonacci number
