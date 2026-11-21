@@ -1,6 +1,6 @@
                    KEUL Python library  v2.5(Release date:20/11/2026)
 Functions:
-q() - ////
+r(a,b) - return the remainder of division 'a' on 'b'
 subtr(a,b) - returns difference between 'a' and 'b'
 dvn(a,b) - returns the quotient of 'a' and 'b'
 multp(a,b) - returns the product of 'a' and 'b'
