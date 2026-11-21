@@ -2,8 +2,8 @@
 import platform
 global s 
 from math import*
-def q():
-   pass
+def r(a,b):
+   return a%b
 def subtr(a,b):
    return a-b
 def dvn(a,b):
