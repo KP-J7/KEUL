@@ -1,4 +1,4 @@
-                   KEUL Python library  v2.5(Release date:20/11/2026)
+                   KEUL Python library  v2.5.1(Release date:21/11/2026)
 Functions:
 r(a,b) - return the remainder of division 'a' on 'b'
 subtr(a,b) - returns difference between 'a' and 'b'
