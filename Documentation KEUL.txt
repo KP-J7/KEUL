@@ -1,4 +1,4 @@
-                   KEUL Python library  v2.5.2(Release date:22/11/2026)
+                   KEUL Python library  v2.5.3(Release date:22/11/2026)
 Functions:
 notev(a) - returns "YES"  if 'a' is not even number and "NO" if 'a' is even
 isev(a) - returns "YES"  if 'a' is even number and "NO" if 'a' isn't even
