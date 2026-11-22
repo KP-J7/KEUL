@@ -2,6 +2,11 @@
 import platform
 global s 
 from math import*
+def isev(a):
+   if a%2==0:
+      return "YES"
+   else:
+      return "NO"
 def r(a,b):
    return a%b
 def subtr(a,b):
