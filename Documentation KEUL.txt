@@ -1,4 +1,4 @@
-                   KEUL Python library  v2.5.1(Release date:21/11/2026)
+                   KEUL Python library  v2.5.2(Release date:22/11/2026)
 Functions:
 isev(a) - returns "YES"  if 'a' is even number and "NO" if 'a' isn't even
 r(a,b) - return the remainder of division 'a' on 'b'
