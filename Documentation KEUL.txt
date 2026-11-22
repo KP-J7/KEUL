@@ -1,5 +1,6 @@
                    KEUL Python library  v2.5.1(Release date:21/11/2026)
 Functions:
+isev(a) - returns "YES"  if 'a' is even number and "NO" if 'a' isn't even
 r(a,b) - return the remainder of division 'a' on 'b'
 subtr(a,b) - returns difference between 'a' and 'b'
 dvn(a,b) - returns the quotient of 'a' and 'b'
