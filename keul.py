@@ -2,6 +2,11 @@
 import platform
 global s 
 from math import*
+def notev(a):
+   if a%2!=0:
+      return "YES"
+   else:
+      return "NO"
 def isev(a):
    if a%2==0:
       return "YES"
