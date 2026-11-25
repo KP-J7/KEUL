@@ -2,6 +2,8 @@
 import platform
 global s 
 from math import*
+def frac(a):
+    return a%1
 def notev(a):
    if a%2!=0:
       return "YES"
