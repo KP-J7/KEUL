@@ -1,7 +1,11 @@
-'''KEUL Version 2.5.3(Release date: 22/11/2026)'''
+'''KEUL Version 2.5.4(Release date: 25/11/2026)'''
 import platform
 global s 
 from math import*
+def tr(a):
+    return trunc(a)
+def frac(a):
+    return a%1
 def notev(a):
    if a%2!=0:
       return "YES"
