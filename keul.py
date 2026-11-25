@@ -1,4 +1,4 @@
-'''KEUL Version 2.d600(Release date: **/11/2026)'''
+'''KEUL Version 2.5.4(Release date: 25/11/2026)'''
 import platform
 global s 
 from math import*
