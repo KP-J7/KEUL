@@ -1,7 +1,7 @@
-                   KEUL Python library  v2.d600(Release date:**/11/2026)
+                   KEUL Python library  v2.5.4(Release date:25/11/2026)
 Functions:
-tr(a) - pass
-frac(a) - pass
+tr(a) - returns the integer part of a number
+frac(a) - returns the fractional part of a number
 notev(a) - returns "YES"  if 'a' is not even number and "NO" if 'a' is even
 isev(a) - returns "YES"  if 'a' is even number and "NO" if 'a' isn't even
 r(a,b) - return the remainder of division 'a' on 'b'
