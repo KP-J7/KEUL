@@ -2,6 +2,8 @@
 import platform
 global s 
 from math import*
+def tr(a):
+    return trunc(a)
 def frac(a):
     return a%1
 def notev(a):
